@@ -2,7 +2,7 @@
   "name": "ideaboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://BrandonElder.github.io/ideaboard-client",
+  "homepage": "https://BrandonElder.github.io/react-ideaboard-client",
   "dependencies": {
     "axios": "^0.18.0",
     "immutability-helper": "^2.7.0",

@@ -22,7 +22,7 @@ class IdeaForm extends Component {
     }
 
     axios.put(
-      `http://localhost:3030/api/v1/ideas/${this.props.idea.id}`,
+      `https://rails-ideadboard-server.herokuapp.com/api/v1/ideas/${this.props.idea.id}`,
       {
         idea: idea
       })
